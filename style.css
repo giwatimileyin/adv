@@ -1,0 +1,260 @@
+body {
+    padding: 0;
+    margin: 0;
+
+}
+.sec{
+    padding: 50px;
+    background-image: linear-gradient(to right, black, purple);
+}
+.way {
+    display: flex;
+}
+.ur{
+    color: #fff;
+    /* border: 2px solid #fff; */
+
+    
+}
+.ur h1 {
+    font-size: 90px;
+    font-family: sans-serif;
+}
+.ur p {
+    font-size: 20px;
+    padding-right: 15px;
+}
+.ur button{
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 2rem;
+    font-size: 19px;
+    background-color: rgba(214, 25, 214, 0.856);
+    border: none;
+}
+.fi {
+    color: rgb(236, 16, 218);
+}
+.ng {
+    /* border: 2px solid #fff; */
+    margin-right: 100px;
+}
+.sec2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.moc {
+    display: flex;
+}
+.dnz {
+    border-radius: 2rem;
+}
+.one {
+    padding-left: 100px;
+    padding-top: 70px;
+}
+.ash {
+    color: rgb(114, 47, 184);
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.one h1 {
+    font-size: 80px;
+    padding-right: 30px;
+    margin: 0;
+}
+.pla {
+    color: rgb(114, 47, 184);
+
+}
+ .rom {
+    font-size: 21px;
+    color: gray;
+}
+.sec3 {
+    padding-top: 90px;
+    padding-bottom: 80px;
+    background-color: #dddada;
+}
+.are {
+    display: flex;
+}
+.you {
+    padding-top: 70px;
+}
+.you h1 {
+    font-size: 80px;
+    padding-right: 30px;
+    margin: 0;
+}
+.rome {
+    /* border: 2px solid #000; */
+    font-size: 20px;
+    color: gray;
+    padding-right: 150px;
+}
+.sec4 {
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.sec5 {
+    background-color: #000;
+    padding-top: 60px;
+}
+.do {
+    font-size: 27px;
+    text-align: center;
+    margin-bottom: 0;
+    color: rgb(236, 16, 218);
+}
+.say {
+    font-size: 80px;
+    margin-top: 0;
+    text-align: center;
+    color: #fff;
+}
+.my {
+    color: #fff;
+    display: flex;
+    padding-bottom: 50px;
+}
+.len {
+    display: flex;
+}
+.data {
+    display: flex;
+    padding-left: 70px;
+}
+.hard {
+    padding-left: 20px;
+    padding-right: 200px;
+}
+.hard p {
+    font-size: 20px;
+}
+.fin {
+    padding-left: 20px;
+    
+}
+.fin p {
+    font-size: 20px;
+    /* border: 2px solid #fff; */
+    padding-right: 140px;
+}
+.lor {
+    font-style: italic;
+}
+.se {
+    padding: 70px;
+    color: #fff;
+    background-color: rgba(36, 33, 33, 0.87);
+}
+.team {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 32% 33% 32%;
+    /* padding-left: 70px;
+    padding-right: 70px; */
+}
+.men {
+    display: block;
+}
+.sup {
+    font-size: 70px;
+    margin: 0;
+}
+.ted {
+    font-size: 20px;
+}
+.sec6 {
+    background-image: linear-gradient(black,purple);
+    padding: 100px;
+}
+.pow {
+    display: flex;
+    color: #fff;
+}
+.bud {
+    margin-top: 90px;
+}
+.bud h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+.bud p {
+    font-size: 22px;
+}
+.bud .button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    border-radius: 2rem;
+    background-color: rgb(128, 54, 188);
+    border: none;
+    margin-left: 17px;
+}
+.app {
+    background-color: rgb(236, 16, 218);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    border-radius: 2rem;
+    border: none;
+    margin-left: 17px;
+}
+.foot{
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+.day{
+height: 60px;
+ width: 200px;
+ 
+}
+.easy{
+    padding-right: 300px;
+}
+.easy p{
+    font-size: 22px;
+}
+.easy a {
+    text-decoration: none;
+    color: #666363;
+    /* border: 2px solid #000; */
+    font-size: 20px;
+}
+.easy i {
+    font-size: 25px;
+    padding-top: 30px;
+    margin: 10px;
+}
+.holder p{
+    font-size: 25px;
+}
+.holder label{
+    font-size: 25px;
+    color: #302d2d;
+}
+.holder input{
+    border: none;
+    background-color: #ddd6d6;
+    border-radius: 0.5rem;
+}
+
+.holder button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 20px;
+    border-radius: 2rem;
+    background-color: rgb(128, 54, 188);
+    border: none;
+    margin-top: 17px;
+}
